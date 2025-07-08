@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Weather Now",
+  "version": "1.0",
+  "description": "Get weather using wttr.in",
+  "host_permissions": ["https://wttr.in/"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
